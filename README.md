@@ -39,16 +39,16 @@ Sou estudante de Sistemas de Informação na UFF e estagiário de Consultoria em
 
 <div align="center">
   <a href="https://github.com/ArbenTafili/RPG-D-D">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArbenTafili&amp;repo=RPG-D-D&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;description_lines_count=2" alt="Ilverin RPG repository card" />
+    <img width="49%" src="https://opengraph.githubassets.com/arben-profile-rpg/ArbenTafili/RPG-D-D" alt="Ilverin RPG repository card" />
   </a>
   <a href="https://github.com/ArbenTafili/portfolio-vizudados">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArbenTafili&amp;repo=portfolio-vizudados&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;description_lines_count=2" alt="Data Visualization Portfolio repository card" />
+    <img width="49%" src="https://opengraph.githubassets.com/arben-profile-viz/ArbenTafili/portfolio-vizudados" alt="Data Visualization Portfolio repository card" />
   </a>
   <a href="https://github.com/ArbenTafili/streaming-analytics-bd3">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArbenTafili&amp;repo=streaming-analytics-bd3&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;description_lines_count=2" alt="StreamInsights Analytics repository card" />
+    <img width="49%" src="https://opengraph.githubassets.com/arben-profile-bd3/ArbenTafili/streaming-analytics-bd3" alt="StreamInsights Analytics repository card" />
   </a>
   <a href="https://github.com/ArbenTafili/SiteESF">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArbenTafili&amp;repo=SiteESF&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;description_lines_count=2" alt="SiteESF repository card" />
+    <img width="49%" src="https://opengraph.githubassets.com/arben-profile-site/ArbenTafili/SiteESF" alt="SiteESF repository card" />
   </a>
 </div>
 
