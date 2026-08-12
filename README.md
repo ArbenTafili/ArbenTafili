@@ -41,6 +41,12 @@ Sou estudante de Sistemas de Informação na UFF e estagiário de Consultoria em
   <a href="https://github.com/ArbenTafili/RPG-D-D">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArbenTafili&amp;repo=RPG-D-D&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;description_lines_count=2" alt="Ilverin RPG repository card" />
   </a>
+  <a href="https://github.com/ArbenTafili/portfolio-vizudados">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArbenTafili&amp;repo=portfolio-vizudados&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;description_lines_count=2" alt="Data Visualization Portfolio repository card" />
+  </a>
+  <a href="https://github.com/ArbenTafili/streaming-analytics-bd3">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArbenTafili&amp;repo=streaming-analytics-bd3&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;description_lines_count=2" alt="StreamInsights Analytics repository card" />
+  </a>
   <a href="https://github.com/ArbenTafili/SiteESF">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArbenTafili&amp;repo=SiteESF&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;description_lines_count=2" alt="SiteESF repository card" />
   </a>
@@ -59,6 +65,30 @@ Two connected web experiences for a tabletop RPG campaign:
 **What it demonstrates:** interface design, information architecture, interactive storytelling and product thinking
 
 [Explore the repository →](https://github.com/ArbenTafili/RPG-D-D)
+</details>
+
+<details open>
+<summary><strong>📊 Data Visualization Portfolio — five interactive redesigns</strong></summary>
+<br />
+
+Five published visualizations redesigned to improve comparison, visual hierarchy and data exploration. Each case queries data directly in the browser and renders a purpose-built interactive experience.
+
+**Built with:** D3.js, DuckDB-Wasm, JavaScript, HTML, CSS and Vite  
+**What it demonstrates:** data storytelling, analytical design, browser-based SQL, interactive visualization and deployment
+
+[Visit the live portfolio →](https://portifolio-vizudados-1.netlify.app/) · [Explore the repository →](https://github.com/ArbenTafili/portfolio-vizudados)
+</details>
+
+<details open>
+<summary><strong>🎮 StreamInsights Analytics — ETL, Data Warehouse and BI</strong></summary>
+<br />
+
+An end-to-end analytics solution that integrates relational data, an intentionally inconsistent acquisition dataset and NoSQL behavioral logs. The pipeline cleans and unifies the sources, loads a dimensional Data Warehouse and powers an interactive business dashboard.
+
+**Built with:** Python, Pandas, NumPy, SQLite, SQL, Streamlit and Plotly  
+**What it demonstrates:** ETL, data cleansing, Star Schema modeling, analytical queries, reproducibility and dashboard design
+
+[Explore the repository →](https://github.com/ArbenTafili/streaming-analytics-bd3)
 </details>
 
 <details>
@@ -99,7 +129,7 @@ A collection of 13 technical challenges focused on programming logic, problem so
 
 ```text
 Development  JavaScript · HTML · CSS · Python fundamentals · Godot · Kodular · Firebase
-Data         PostgreSQL · PL/pgSQL · SQL · relational modeling · normalization · optimization
+Data         PostgreSQL · PL/pgSQL · SQLite · Pandas · D3.js · DuckDB-Wasm · ETL · dimensional modeling
 Product      UI/UX · game design · visual storytelling · gamification · educational technology
 Consulting   change management · impact analysis · user enablement · process improvement
 ```
