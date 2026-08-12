@@ -120,14 +120,13 @@ I contribute to Talent & Organization initiatives involving change management, u
 Expected graduation in 2027, with a 9.1/10 academic coefficient. Selected academic builds include:
 
 - a streaming database system using PostgreSQL and PL/pgSQL, with indexes, triggers, materialized views, stored procedures and performance analysis;
-- a race management database covering conceptual and relational modeling, functional dependencies, normalization through Third Normal Form and SQL;
-- **NIT-RAD**, an educational game about nuclear radiation developed with Godot, where I led game design, storyboards, interfaces, visual elements, scenarios and characters.
+- a race management database covering conceptual and relational modeling, functional dependencies, normalization through Third Normal Form and SQL.
 </details>
 
 <details>
 <summary><strong>🔬 IFRJ · Research Scholar and Technical Education</strong></summary>
 <br />
-I researched and developed technology solutions for basic education, contributed to educational applications and school management systems, supported teachers in adopting digital tools and worked with Kodular. I also completed an Integrated Technical Program in Information Technology at IFRJ in 2022.
+I researched and developed technology solutions for basic education, contributed to educational applications and school management systems, supported teachers in adopting digital tools and worked with Kodular. During this period, I also worked on **NIT-RAD**, an educational game about nuclear radiation developed with Godot, where I led game design, storyboards, interfaces, visual elements, scenarios and characters. I completed an Integrated Technical Program in Information Technology at IFRJ in 2022.
 </details>
 
 ## 📊 GitHub activity
