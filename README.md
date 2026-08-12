@@ -2,9 +2,7 @@
 
 # Arben Tafili
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=24&amp;pause=1200&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Information+Systems+%40+UFF;Technology+Consulting+%40+Accenture;Building+with+data%2C+software+%26+design" alt="Animated introduction: Information Systems at UFF, Technology Consulting at Accenture, and building with data, software and design" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=24&amp;pause=1200&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Information+Systems+%40+UFF;Technology+Consulting+%40+Accenture;Building+with+data%2C+software+%26+design" alt="Animated introduction: Information Systems at UFF, Technology Consulting at Accenture, and building with data, software and design" />
 
 **I turn complex needs into clear, useful and engaging digital experiences.**
 
@@ -151,9 +149,7 @@ I researched and developed technology solutions for basic education, contributed
 > The language card reflects code in public repositories; it is not a ranking of skill level.
 </details>
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArbenTafili&amp;theme=tokyo-night&amp;hide_border=true&amp;radius=12&amp;area=true&amp;custom_title=Arben's%20contribution%20activity" alt="Arben's GitHub contribution activity graph" />
-</a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArbenTafili&amp;theme=tokyo-night&amp;hide_border=true&amp;radius=12&amp;area=true&amp;custom_title=Arben's%20contribution%20activity" alt="Arben's GitHub contribution activity graph" />
 
 <div align="center">
   <picture>
