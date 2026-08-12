@@ -159,26 +159,6 @@ I researched and developed technology solutions for basic education, contributed
 
 ## 📊 GitHub activity
 
-<details>
-<summary><strong>Open my public GitHub snapshot</strong></summary>
-<br />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ArbenTafili&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ArbenTafili&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;theme=buefy&amp;hide_border=true&amp;border_radius=12" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArbenTafili&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12" alt="Arben's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbenTafili&amp;layout=compact&amp;langs_count=6&amp;size_weight=0.5&amp;count_weight=0.5&amp;custom_title=Public%20repository%20mix&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbenTafili&amp;layout=compact&amp;langs_count=6&amp;size_weight=0.5&amp;count_weight=0.5&amp;custom_title=Public%20repository%20mix&amp;theme=buefy&amp;hide_border=true&amp;border_radius=12" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbenTafili&amp;layout=compact&amp;langs_count=6&amp;size_weight=0.5&amp;count_weight=0.5&amp;custom_title=Public%20repository%20mix&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12" alt="Languages used across Arben's public repositories" />
-  </picture>
-</div>
-
-> The language card reflects code in public repositories; it is not a ranking of skill level.
-</details>
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArbenTafili&amp;theme=tokyo-night&amp;hide_border=true&amp;radius=12&amp;area=true&amp;custom_title=Arben's%20contribution%20activity" alt="Arben's GitHub contribution activity graph" />
 
 <div align="center">
